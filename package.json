@@ -24,5 +24,13 @@
   "author": "danrocc",
   "license": "ISC",
   "description": "site yell",
-  "devDependencies": {}
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Danrocc/Yell.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Danrocc/Yell/issues"
+  },
+  "homepage": "https://github.com/Danrocc/Yell#readme"
 }
